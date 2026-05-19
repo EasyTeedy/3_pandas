@@ -1,4 +1,4 @@
-;Gender;Education;Body_temperature_celsius;points_in_exam
+index;Gender;Education;Body_temperature_celsius;points_in_exam
 0;Male;M.Sc.;37.85;0
 1;Female;B.Sc.;39.85;100
 2;Female;B.Sc.;38.85;80
